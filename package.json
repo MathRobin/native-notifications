@@ -1,0 +1,27 @@
+{
+  "name": "native-notifications",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathRobin/native-notifications.git"
+  },
+  "keywords": [
+    "notification",
+    "browser",
+    "native"
+  ],
+  "author": "MathRobin <mthrobin@gmail.com> (https://www.matosmaison.fr)",
+  "license": "WTFPL",
+  "description": "native-notifications use browsers native notifications API.",
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/MathRobin/native-notifications/issues"
+  },
+  "homepage": "https://github.com/MathRobin/native-notifications",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
